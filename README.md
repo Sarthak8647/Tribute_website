@@ -3,6 +3,7 @@ APJ Abdul Kalam Tribute Website
 This project is a tribute website dedicated to Dr. APJ Abdul Kalam, one of India's most respected leaders, scientist, and former President. The website highlights his inspiring life, achievements, and contributions to science, education, and the nation.
 
 Features:
+
 Biographical Information: A section dedicated to Kalam’s early life, education, and career.
 
 Achievements: Showcasing his major accomplishments, including his role in India's missile and space programs.
